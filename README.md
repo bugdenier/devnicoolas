@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey there, i'm Nicolas! 👋
 
-<!--
-**devnicoolas/devnicoolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  &nbsp;・Software Engineer;<br>
+  &nbsp;・Analysis and Systems Development Student;<br>
+  &nbsp;・Verified Discord Developer.
+</div>
 
-Here are some ideas to get you started:
+## 🔭 I'm currently working on
+&nbsp;・Katedral (Game Studio) | [@Katedral](https://github.com/KatedralServidor);<br>
+&nbsp;・Ape Studio (Software Development);<br>
+&nbsp;・Some integrations just for fun. :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Connect with me:
+
+<a href="https://instagram.com/nkzinkkk"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a><br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=797271&width=435&lines=Turn+your+dreams+into+reality.)](https://git.io/typing-svg)
