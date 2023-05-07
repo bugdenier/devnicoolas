@@ -13,6 +13,6 @@
 
 ### 🤝 Connect with me:
 
-<a href="https://instagram.com/nkzinkkk"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a><a href="https://instagram.com/niickdev">Old Github</a><br> <br> 
+<a href="https://instagram.com/nkzinkkk"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a><a href="https://github.com/niickdev">Old Github</a><br> <br> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=797271&width=435&lines=Turn+your+dreams+into+reality.)](https://git.io/typing-svg)
